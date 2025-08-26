@@ -1,4 +1,6 @@
-# Starting the virtual enviroment
+# Instructions and Workflow
+
+## Starting the virtual enviroment
 
 ## Install Environment from requirements.txt (in Mac OS):
 
