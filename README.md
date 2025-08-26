@@ -67,7 +67,7 @@
 
 ---
 
-## 🔹 Tree-Based Workflow
+## Tree-Based Workflow
 
 ### 7. Preprocessing
 
