@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 ### 3. Handle Missing Values
 
-- None in this dataset → ✅ skip
+- None in this dataset → skip
 - (General rule: median for numeric, mode for categorical).
 
 ### 4. Basic EDA
@@ -43,7 +43,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🔹 Linear Regression Workflow
+## Linear Regression Workflow
 
 ### 7. Preprocessing
 
@@ -91,3 +91,4 @@ pip install -r requirements.txt
 
 - Linear vs Regularized vs Tree-based
 - Choose best based on RMSE / R²
+
