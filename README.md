@@ -5,6 +5,7 @@
 ## Install Environment from requirements.txt (in Mac OS):
 
 1. Clone/download the project folder
+
 2. Run: <br>
 
 - python -m venv .venv
