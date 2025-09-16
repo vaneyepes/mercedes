@@ -1,4 +1,4 @@
-# Mercedes-Benz Greener Manufacturing – ML Project
+# Mercedes-Benz Greener Manufacturing – ML/ANN Project
 Exploratory analysis and modeling on a Kaggle dataset to predict test bench times for cars.
 
 ## Highlights
@@ -107,6 +107,7 @@ pip install -r requirements.txt
 
 - Linear vs Regularized vs Tree-based
 - Choose best based on RMSE / R²
+
 
 
 
