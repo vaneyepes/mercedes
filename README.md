@@ -1,3 +1,16 @@
+# Mercedes-Benz Greener Manufacturing – ML Project
+Exploratory analysis and modeling on a Kaggle dataset to predict test bench times for cars.
+
+## Highlights
+- Role: Data cleaning, EDA, feature engineering, and model comparison.
+- Tech: Python, Pandas, NumPy, Scikit-learn, TensorFlow, Jupyter.
+- Models: Ridge Regression, Decision Trees, Random Forest, ANN (Keras).
+- Outcome: Compared model performance (RMSE, MAE, R²) and documented findings.
+
+## Run
+Open the Jupyter notebooks to view analysis and model training.
+
+
 ## Starting the virtual enviroment
 
 Install Environment from requirements.txt (in Mac OS):
@@ -91,4 +104,5 @@ pip install -r requirements.txt
 
 - Linear vs Regularized vs Tree-based
 - Choose best based on RMSE / R²
+
 
