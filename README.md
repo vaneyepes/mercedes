@@ -7,6 +7,9 @@ Exploratory analysis and modeling on a Kaggle dataset to predict test bench time
 - Models: Ridge Regression, Decision Trees, Random Forest, ANN (Keras).
 - Outcome: Compared model performance (RMSE, MAE, R²) and documented findings.
 
+![App Screenshot](images/feature_importance_RF.png)
+
+
 ## Run
 Open the Jupyter notebooks to view analysis and model training.
 
@@ -104,5 +107,6 @@ pip install -r requirements.txt
 
 - Linear vs Regularized vs Tree-based
 - Choose best based on RMSE / R²
+
 
 
